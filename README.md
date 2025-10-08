@@ -5,7 +5,7 @@ Project Overview
 Data Source: Yahoo Finance API, providing Open, High, Low, Close, and Volume data.
 
 Technical Indicators:
-
+ 
 RSI – Relative Strength Index
 
 MACD – Moving Average Convergence Divergence
